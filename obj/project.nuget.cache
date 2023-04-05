@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVxoDX+pwYK6ecuB8AL9uo6tBiPhLcA46QgTqr2vt/qvqIyHQsP4BIjUsPvSbgkkefgziqMx1qU95uc8FXTLsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yerneral\\Desktop\\1проект\\RoguLike\\RoguLike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yerneral\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\Yerneral\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yerneral\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yerneral\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
